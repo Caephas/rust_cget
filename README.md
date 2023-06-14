@@ -20,7 +20,7 @@ cargo build --release
 ## Usage
 
 ```sh
-cargo run -- <url>
+cargo run <url>
 ```
 
 Replace `<url>` with the URL of the file you want to download. The file will be saved in your default downloads directory.
